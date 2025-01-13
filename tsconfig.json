@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",     // Output directory for compiled JavaScript
+    "rootDir": "./src",     // Input directory for TypeScript files
+    "strict": true,         // Enable strict type-checking
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "target": "ES6",        // Compile to ES6 JavaScript
+    "module": "CommonJS"    // Use CommonJS module system
+  }
+}
+
